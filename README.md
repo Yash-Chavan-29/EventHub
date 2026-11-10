@@ -4,6 +4,16 @@ EventHub is a full-stack, responsive, dark-themed College Event Management Syste
 
 ---
 
+## 📸 Preview & Live Walkthrough
+
+![EventHub Screenshot](./docs/screenshot.png)
+
+![EventHub Demo](./docs/demo.gif)
+
+> 🎬 **[Watch Full Demo Video (WebM)](./docs/demo.webm)**
+
+---
+
 ## Technical Stack
 
 - **Backend**: Node.js, Express, MongoDB (Mongoose), JSON Web Tokens (JWT) for secure authentication, and BcryptJS for password hashing.
